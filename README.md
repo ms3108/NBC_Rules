@@ -4,6 +4,7 @@ The National Building Code of India is a comprehensive building code to regulate
 
 
 🚀 Features
+
 🔍 Search bar to quickly find relevant sections or keywords.
 
 🧭 Clickable headings to view full rules and clauses.
